@@ -1,0 +1,303 @@
+2026-03-27 00:44:46.990789 | CLIENT_0 | DEBUG | Request processed
+2026-03-27 00:44:47.443489 | CLIENT_1 | INFO | Disk usage warning
+2026-03-27 00:44:47.950967 | CLIENT_2 | INFO | Query executed
+2026-03-27 00:44:48.431688 | CLIENT_3 | WARNING | Disk usage warning
+2026-03-27 00:44:48.495708 | CLIENT_0 | ERROR | User login successful
+2026-03-27 00:44:48.942431 | CLIENT_4 | INFO | Request processed
+2026-03-27 00:44:48.948421 | CLIENT_1 | DEBUG | File uploaded
+2026-03-27 00:44:49.455246 | CLIENT_2 | INFO | File uploaded
+2026-03-27 00:44:49.934448 | CLIENT_3 | WARNING | Request processed
+2026-03-27 00:44:50.004519 | CLIENT_0 | ERROR | File uploaded
+2026-03-27 00:44:50.448068 | CLIENT_4 | ERROR | Database connection established
+2026-03-27 00:44:50.452020 | CLIENT_1 | INFO | Disk usage warning
+2026-03-27 00:44:50.957846 | CLIENT_2 | ERROR | API response sent
+2026-03-27 00:44:51.436799 | CLIENT_3 | DEBUG | API response sent
+2026-03-27 00:44:51.507353 | CLIENT_0 | DEBUG | Database connection established
+2026-03-27 00:44:51.951495 | CLIENT_4 | INFO | API response sent
+2026-03-27 00:44:51.954228 | CLIENT_1 | WARNING | File uploaded
+2026-03-27 00:44:52.460903 | CLIENT_2 | DEBUG | Cache refreshed
+2026-03-27 00:44:52.939789 | CLIENT_3 | ERROR | API response sent
+2026-03-27 00:44:53.026393 | CLIENT_0 | DEBUG | Connection timeout
+2026-03-27 00:44:53.453827 | CLIENT_4 | WARNING | Disk usage warning
+2026-03-27 00:44:53.456384 | CLIENT_1 | ERROR | Disk usage warning
+2026-03-27 00:44:53.963570 | CLIENT_2 | INFO | Query executed
+2026-03-27 00:44:54.443182 | CLIENT_3 | DEBUG | API response sent
+2026-03-27 00:44:54.530918 | CLIENT_0 | ERROR | Authentication failed
+2026-03-27 00:44:54.956256 | CLIENT_4 | WARNING | File uploaded
+2026-03-27 00:44:54.959128 | CLIENT_1 | DEBUG | Disk usage warning
+2026-03-27 00:44:55.466459 | CLIENT_2 | WARNING | Connection timeout
+2026-03-27 00:44:55.946227 | CLIENT_3 | WARNING | Connection timeout
+2026-03-27 00:44:56.044651 | CLIENT_0 | INFO | Cache refreshed
+2026-03-27 00:44:56.460096 | CLIENT_4 | ERROR | API response sent
+2026-03-27 00:44:56.463331 | CLIENT_1 | INFO | Cache refreshed
+2026-03-27 00:44:56.968920 | CLIENT_2 | WARNING | Cache refreshed
+2026-03-27 00:44:57.448695 | CLIENT_3 | ERROR | Database connection established
+2026-03-27 00:44:57.547012 | CLIENT_0 | ERROR | API response sent
+2026-03-27 00:44:57.962933 | CLIENT_4 | INFO | File uploaded
+2026-03-27 00:44:57.966479 | CLIENT_1 | INFO | Query executed
+2026-03-27 00:44:58.492471 | CLIENT_2 | WARNING | User login successful
+2026-03-27 00:44:58.951073 | CLIENT_3 | WARNING | Connection timeout
+2026-03-27 00:44:59.049915 | CLIENT_0 | ERROR | Cache refreshed
+2026-03-27 00:44:59.467238 | CLIENT_4 | WARNING | User login successful
+2026-03-27 00:44:59.469288 | CLIENT_1 | ERROR | API response sent
+2026-03-27 00:44:59.995456 | CLIENT_2 | WARNING | Query executed
+2026-03-27 00:45:00.453384 | CLIENT_3 | INFO | Authentication failed
+2026-03-27 00:45:00.552829 | CLIENT_0 | INFO | Connection timeout
+2026-03-27 00:45:00.977081 | CLIENT_4 | INFO | Disk usage warning
+2026-03-27 00:45:00.977612 | CLIENT_1 | DEBUG | Request processed
+2026-03-27 00:45:01.529397 | CLIENT_2 | ERROR | Cache refreshed
+2026-03-27 00:45:01.956631 | CLIENT_3 | INFO | Cache refreshed
+2026-03-27 00:45:02.055729 | CLIENT_0 | ERROR | Request processed
+2026-03-27 00:45:02.480008 | CLIENT_1 | INFO | File uploaded
+2026-03-27 00:45:02.480148 | CLIENT_4 | INFO | Query executed
+2026-03-27 00:45:03.032068 | CLIENT_2 | DEBUG | Request processed
+2026-03-27 00:45:03.459900 | CLIENT_3 | WARNING | API response sent
+2026-03-27 00:45:03.558399 | CLIENT_0 | ERROR | File uploaded
+2026-03-27 00:45:04.002388 | CLIENT_1 | ERROR | Connection timeout
+2026-03-27 00:45:04.013293 | CLIENT_4 | INFO | Connection timeout
+2026-03-27 00:45:04.534894 | CLIENT_2 | WARNING | Disk usage warning
+2026-03-27 00:45:05.035883 | CLIENT_3 | DEBUG | File uploaded
+2026-03-27 00:45:05.061217 | CLIENT_0 | DEBUG | User login successful
+2026-03-27 00:45:05.504568 | CLIENT_1 | WARNING | Disk usage warning
+2026-03-27 00:45:05.515589 | CLIENT_4 | ERROR | Query executed
+2026-03-27 00:45:06.038323 | CLIENT_2 | DEBUG | User login successful
+2026-03-27 00:45:06.571195 | CLIENT_3 | WARNING | Database connection established
+2026-03-27 00:45:06.581315 | CLIENT_0 | WARNING | Authentication failed
+2026-03-27 00:45:07.094201 | CLIENT_1 | DEBUG | Database connection established
+2026-03-27 00:45:07.098267 | CLIENT_4 | DEBUG | Cache refreshed
+2026-03-27 00:45:07.541479 | CLIENT_2 | INFO | Authentication failed
+2026-03-27 00:45:08.077781 | CLIENT_3 | ERROR | Database connection established
+2026-03-27 00:45:08.088656 | CLIENT_0 | ERROR | API response sent
+2026-03-27 00:45:08.597171 | CLIENT_1 | ERROR | User login successful
+2026-03-27 00:45:08.600263 | CLIENT_4 | DEBUG | Connection timeout
+2026-03-27 00:45:09.044304 | CLIENT_2 | DEBUG | Cache refreshed
+2026-03-27 00:45:09.664457 | CLIENT_3 | ERROR | Disk usage warning
+2026-03-27 00:45:09.677559 | CLIENT_0 | WARNING | Connection timeout
+2026-03-27 00:45:10.117696 | CLIENT_1 | INFO | Request processed
+2026-03-27 00:45:10.145025 | CLIENT_4 | ERROR | Authentication failed
+2026-03-27 00:45:10.547513 | CLIENT_2 | WARNING | Request processed
+2026-03-27 00:45:11.275391 | CLIENT_0 | DEBUG | Connection timeout
+2026-03-27 00:45:11.168662 | CLIENT_3 | ERROR | Query executed
+2026-03-27 00:45:11.622499 | CLIENT_1 | DEBUG | Authentication failed
+2026-03-27 00:45:11.650841 | CLIENT_4 | ERROR | Disk usage warning
+2026-03-27 00:45:12.050193 | CLIENT_2 | ERROR | API response sent
+2026-03-27 00:45:12.816409 | CLIENT_0 | ERROR | Connection timeout
+2026-03-27 00:45:12.925393 | CLIENT_3 | ERROR | File uploaded
+2026-03-27 00:45:13.130359 | CLIENT_1 | WARNING | Query executed
+2026-03-27 00:45:13.157356 | CLIENT_4 | WARNING | Database connection established
+2026-03-27 00:45:13.553138 | CLIENT_2 | INFO | User login successful
+2026-03-27 00:45:14.319913 | CLIENT_0 | INFO | Authentication failed
+2026-03-27 00:45:14.433141 | CLIENT_3 | DEBUG | Request processed
+2026-03-27 00:45:14.633167 | CLIENT_1 | WARNING | User login successful
+2026-03-27 00:45:14.660489 | CLIENT_4 | ERROR | File uploaded
+2026-03-27 00:45:15.055870 | CLIENT_2 | INFO | Authentication failed
+2026-03-27 00:45:15.822717 | CLIENT_0 | ERROR | Connection timeout
+2026-03-27 00:45:15.935497 | CLIENT_3 | DEBUG | Database connection established
+2026-03-27 00:45:16.136507 | CLIENT_1 | ERROR | Request processed
+2026-03-27 00:45:16.166920 | CLIENT_4 | WARNING | User login successful
+2026-03-27 00:45:16.558824 | CLIENT_2 | ERROR | Request processed
+2026-03-27 00:45:17.326234 | CLIENT_0 | DEBUG | Query executed
+2026-03-27 00:45:17.438884 | CLIENT_3 | ERROR | Connection timeout
+2026-03-27 00:45:17.642447 | CLIENT_1 | INFO | API response sent
+2026-03-27 00:45:17.669834 | CLIENT_4 | DEBUG | Database connection established
+2026-03-27 00:45:18.061191 | CLIENT_2 | INFO | API response sent
+2026-03-27 00:45:18.836565 | CLIENT_0 | ERROR | File uploaded
+2026-03-27 00:45:18.950463 | CLIENT_3 | INFO | Connection timeout
+2026-03-27 00:45:19.146121 | CLIENT_1 | DEBUG | Connection timeout
+2026-03-27 00:45:19.181549 | CLIENT_4 | DEBUG | API response sent
+2026-03-27 00:45:19.564610 | CLIENT_2 | DEBUG | File uploaded
+2026-03-27 00:45:20.341366 | CLIENT_0 | DEBUG | User login successful
+2026-03-27 00:45:20.453366 | CLIENT_3 | INFO | Cache refreshed
+2026-03-27 00:45:20.684683 | CLIENT_1 | ERROR | Query executed
+2026-03-27 00:45:20.707903 | CLIENT_4 | INFO | Disk usage warning
+2026-03-27 00:45:21.068091 | CLIENT_2 | INFO | Cache refreshed
+2026-03-27 00:45:21.845842 | CLIENT_0 | DEBUG | File uploaded
+2026-03-27 00:45:21.962043 | CLIENT_3 | WARNING | Database connection established
+2026-03-27 00:45:22.187228 | CLIENT_1 | WARNING | Query executed
+2026-03-27 00:45:22.211056 | CLIENT_4 | WARNING | User login successful
+2026-03-27 00:45:22.571310 | CLIENT_2 | ERROR | Connection timeout
+2026-03-27 00:45:23.348945 | CLIENT_0 | INFO | Request processed
+2026-03-27 00:45:23.464682 | CLIENT_3 | ERROR | API response sent
+2026-03-27 00:45:23.689785 | CLIENT_1 | INFO | Connection timeout
+2026-03-27 00:45:23.713850 | CLIENT_4 | INFO | Disk usage warning
+2026-03-27 00:45:24.073781 | CLIENT_2 | INFO | Connection timeout
+2026-03-27 00:45:24.852434 | CLIENT_0 | INFO | User login successful
+2026-03-27 00:45:24.985269 | CLIENT_3 | DEBUG | Connection timeout
+2026-03-27 00:45:25.192710 | CLIENT_1 | WARNING | API response sent
+2026-03-27 00:45:25.216277 | CLIENT_4 | DEBUG | Connection timeout
+2026-03-27 00:45:25.576972 | CLIENT_2 | DEBUG | API response sent
+2026-03-27 00:45:26.356441 | CLIENT_0 | INFO | User login successful
+2026-03-27 00:45:26.488064 | CLIENT_3 | DEBUG | API response sent
+2026-03-27 00:45:26.695163 | CLIENT_1 | ERROR | Query executed
+2026-03-27 00:45:26.718514 | CLIENT_4 | DEBUG | API response sent
+2026-03-27 00:45:27.079726 | CLIENT_2 | INFO | Authentication failed
+2026-03-27 00:45:27.859079 | CLIENT_0 | WARNING | Disk usage warning
+2026-03-27 00:45:27.994916 | CLIENT_3 | ERROR | File uploaded
+2026-03-27 00:45:28.201355 | CLIENT_1 | WARNING | API response sent
+2026-03-27 00:45:28.221835 | CLIENT_4 | ERROR | Cache refreshed
+2026-03-27 00:45:28.584706 | CLIENT_2 | DEBUG | Cache refreshed
+2026-03-27 00:45:29.363297 | CLIENT_0 | WARNING | Connection timeout
+2026-03-27 00:45:29.497838 | CLIENT_3 | ERROR | Request processed
+2026-03-27 00:45:29.705535 | CLIENT_1 | DEBUG | Connection timeout
+2026-03-27 00:45:29.724422 | CLIENT_4 | WARNING | Database connection established
+2026-03-27 00:45:30.106245 | CLIENT_2 | ERROR | Cache refreshed
+2026-03-27 00:45:30.867569 | CLIENT_0 | WARNING | File uploaded
+2026-03-27 00:45:31.013261 | CLIENT_3 | ERROR | User login successful
+2026-03-27 00:45:31.207859 | CLIENT_1 | ERROR | API response sent
+2026-03-27 00:45:31.227592 | CLIENT_4 | WARNING | Connection timeout
+2026-03-27 00:45:31.610282 | CLIENT_2 | WARNING | File uploaded
+2026-03-27 00:45:32.370125 | CLIENT_0 | ERROR | Query executed
+2026-03-27 00:45:32.515640 | CLIENT_3 | INFO | Cache refreshed
+2026-03-27 00:45:32.718129 | CLIENT_1 | INFO | API response sent
+2026-03-27 00:45:32.742495 | CLIENT_4 | INFO | Cache refreshed
+2026-03-27 00:45:33.121799 | CLIENT_2 | DEBUG | Database connection established
+2026-03-27 00:45:33.872868 | CLIENT_0 | ERROR | Database connection established
+2026-03-27 00:45:34.018590 | CLIENT_3 | INFO | Cache refreshed
+2026-03-27 00:45:34.220412 | CLIENT_1 | WARNING | File uploaded
+2026-03-27 00:45:34.245311 | CLIENT_4 | INFO | Authentication failed
+2026-03-27 00:45:34.626072 | CLIENT_2 | WARNING | Request processed
+2026-03-27 00:45:35.377219 | CLIENT_0 | WARNING | Authentication failed
+2026-03-27 00:45:35.520897 | CLIENT_3 | WARNING | Disk usage warning
+2026-03-27 00:45:35.722821 | CLIENT_1 | WARNING | Connection timeout
+2026-03-27 00:45:35.747816 | CLIENT_4 | INFO | Request processed
+2026-03-27 00:45:36.144531 | CLIENT_2 | ERROR | User login successful
+2026-03-27 00:45:36.880511 | CLIENT_0 | WARNING | Request processed
+2026-03-27 00:45:37.023697 | CLIENT_3 | WARNING | Connection timeout
+2026-03-27 00:45:37.225918 | CLIENT_1 | ERROR | User login successful
+2026-03-27 00:45:37.250827 | CLIENT_4 | INFO | Authentication failed
+2026-03-27 00:45:37.647344 | CLIENT_2 | DEBUG | API response sent
+2026-03-27 00:45:38.383415 | CLIENT_0 | WARNING | Cache refreshed
+2026-03-27 00:45:38.526898 | CLIENT_3 | ERROR | Authentication failed
+2026-03-27 00:45:38.729466 | CLIENT_1 | DEBUG | Database connection established
+2026-03-27 00:45:38.753506 | CLIENT_4 | INFO | Database connection established
+2026-03-27 00:45:39.161576 | CLIENT_2 | INFO | Connection timeout
+2026-03-27 00:45:39.885659 | CLIENT_0 | INFO | Database connection established
+2026-03-27 00:45:40.060243 | CLIENT_3 | DEBUG | Query executed
+2026-03-27 00:45:40.232670 | CLIENT_1 | INFO | File uploaded
+2026-03-27 00:45:40.256479 | CLIENT_4 | WARNING | Database connection established
+2026-03-27 00:45:40.664416 | CLIENT_2 | INFO | Cache refreshed
+2026-03-27 00:45:41.388932 | CLIENT_0 | INFO | Request processed
+2026-03-27 00:45:41.562930 | CLIENT_3 | INFO | User login successful
+2026-03-27 00:45:41.735342 | CLIENT_1 | DEBUG | Query executed
+2026-03-27 00:45:41.759575 | CLIENT_4 | ERROR | Query executed
+2026-03-27 00:45:42.169579 | CLIENT_2 | WARNING | Disk usage warning
+2026-03-27 00:45:42.906793 | CLIENT_0 | DEBUG | User login successful
+2026-03-27 00:45:43.066049 | CLIENT_3 | WARNING | Request processed
+2026-03-27 00:45:43.239055 | CLIENT_1 | DEBUG | Disk usage warning
+2026-03-27 00:45:43.263862 | CLIENT_4 | DEBUG | Database connection established
+2026-03-27 00:45:43.678489 | CLIENT_2 | ERROR | Query executed
+2026-03-27 00:45:44.409604 | CLIENT_0 | WARNING | Authentication failed
+2026-03-27 00:45:44.573990 | CLIENT_3 | WARNING | Connection timeout
+2026-03-27 00:45:44.742038 | CLIENT_1 | WARNING | Connection timeout
+2026-03-27 00:45:44.772145 | CLIENT_4 | INFO | Query executed
+2026-03-27 00:45:45.181485 | CLIENT_2 | WARNING | Request processed
+2026-03-27 00:45:45.912536 | CLIENT_0 | INFO | API response sent
+2026-03-27 00:45:46.081312 | CLIENT_3 | DEBUG | Database connection established
+2026-03-27 00:45:46.244850 | CLIENT_1 | ERROR | Request processed
+2026-03-27 00:45:46.276197 | CLIENT_4 | DEBUG | Cache refreshed
+2026-03-27 00:45:46.716526 | CLIENT_2 | ERROR | Query executed
+2026-03-27 00:45:47.421903 | CLIENT_0 | ERROR | Query executed
+2026-03-27 00:45:47.646450 | CLIENT_3 | DEBUG | Database connection established
+2026-03-27 00:45:47.770215 | CLIENT_1 | INFO | API response sent
+2026-03-27 00:45:47.881182 | CLIENT_4 | ERROR | Query executed
+2026-03-27 00:45:48.221149 | CLIENT_2 | DEBUG | File uploaded
+2026-03-27 00:45:48.925423 | CLIENT_0 | DEBUG | User login successful
+2026-03-27 00:45:49.149396 | CLIENT_3 | DEBUG | API response sent
+2026-03-27 00:45:49.278566 | CLIENT_1 | WARNING | User login successful
+2026-03-27 00:45:49.383783 | CLIENT_4 | ERROR | Disk usage warning
+2026-03-27 00:45:49.788840 | CLIENT_2 | DEBUG | Request processed
+2026-03-27 00:45:50.428337 | CLIENT_0 | WARNING | Disk usage warning
+2026-03-27 00:45:50.652486 | CLIENT_3 | DEBUG | Database connection established
+2026-03-27 00:45:50.780853 | CLIENT_1 | ERROR | Database connection established
+2026-03-27 00:45:50.886641 | CLIENT_4 | WARNING | User login successful
+2026-03-27 00:45:51.298177 | CLIENT_2 | ERROR | Database connection established
+2026-03-27 00:45:51.930937 | CLIENT_0 | DEBUG | Cache refreshed
+2026-03-27 00:45:52.194053 | CLIENT_3 | ERROR | Connection timeout
+2026-03-27 00:45:52.284011 | CLIENT_1 | DEBUG | User login successful
+2026-03-27 00:45:52.397897 | CLIENT_4 | ERROR | Database connection established
+2026-03-27 00:45:52.800820 | CLIENT_2 | INFO | Request processed
+2026-03-27 00:45:53.451095 | CLIENT_0 | DEBUG | Authentication failed
+2026-03-27 00:45:53.729952 | CLIENT_3 | INFO | User login successful
+2026-03-27 00:45:53.793230 | CLIENT_1 | DEBUG | Cache refreshed
+2026-03-27 00:45:54.039540 | CLIENT_4 | DEBUG | User login successful
+2026-03-27 00:45:54.309908 | CLIENT_2 | DEBUG | File uploaded
+2026-03-27 00:45:54.962070 | CLIENT_0 | WARNING | Cache refreshed
+2026-03-27 00:45:55.234820 | CLIENT_3 | INFO | Database connection established
+2026-03-27 00:45:55.303211 | CLIENT_1 | DEBUG | Cache refreshed
+2026-03-27 00:45:55.542168 | CLIENT_4 | INFO | Database connection established
+2026-03-27 00:45:55.812403 | CLIENT_2 | ERROR | Authentication failed
+2026-03-27 00:45:56.465587 | CLIENT_0 | INFO | Connection timeout
+2026-03-27 00:45:56.742720 | CLIENT_3 | INFO | Database connection established
+2026-03-27 00:45:56.805737 | CLIENT_1 | DEBUG | Cache refreshed
+2026-03-27 00:45:57.046401 | CLIENT_4 | WARNING | Disk usage warning
+2026-03-27 00:45:57.314968 | CLIENT_2 | ERROR | API response sent
+2026-03-27 00:45:57.968366 | CLIENT_0 | ERROR | File uploaded
+2026-03-27 00:45:58.245745 | CLIENT_3 | INFO | Request processed
+2026-03-27 00:45:58.310507 | CLIENT_1 | WARNING | Authentication failed
+2026-03-27 00:45:58.549030 | CLIENT_4 | ERROR | Query executed
+2026-03-27 00:45:58.817427 | CLIENT_2 | INFO | API response sent
+2026-03-27 00:45:59.471691 | CLIENT_0 | WARNING | User login successful
+2026-03-27 00:45:59.750274 | CLIENT_3 | INFO | Database connection established
+2026-03-27 00:45:59.813710 | CLIENT_1 | WARNING | File uploaded
+2026-03-27 00:46:00.062441 | CLIENT_4 | INFO | User login successful
+2026-03-27 00:46:00.333132 | CLIENT_2 | WARNING | File uploaded
+2026-03-27 00:46:00.973985 | CLIENT_0 | WARNING | API response sent
+2026-03-27 00:46:01.253285 | CLIENT_3 | WARNING | Request processed
+2026-03-27 00:46:01.316814 | CLIENT_1 | WARNING | Disk usage warning
+2026-03-27 00:46:01.565089 | CLIENT_4 | WARNING | Request processed
+2026-03-27 00:46:01.840460 | CLIENT_2 | WARNING | Database connection established
+2026-03-27 00:46:02.482051 | CLIENT_0 | ERROR | User login successful
+2026-03-27 00:46:02.756405 | CLIENT_3 | DEBUG | User login successful
+2026-03-27 00:46:02.823748 | CLIENT_1 | WARNING | Query executed
+2026-03-27 00:46:03.090332 | CLIENT_4 | WARNING | Cache refreshed
+2026-03-27 00:46:03.342781 | CLIENT_2 | WARNING | Disk usage warning
+2026-03-27 00:46:03.984532 | CLIENT_0 | INFO | User login successful
+2026-03-27 00:46:04.259740 | CLIENT_3 | WARNING | File uploaded
+2026-03-27 00:46:04.326321 | CLIENT_1 | DEBUG | Database connection established
+2026-03-27 00:46:04.593081 | CLIENT_4 | ERROR | Cache refreshed
+2026-03-27 00:46:04.844988 | CLIENT_2 | WARNING | Database connection established
+2026-03-27 00:46:05.487091 | CLIENT_0 | INFO | Cache refreshed
+2026-03-27 00:46:05.765332 | CLIENT_3 | DEBUG | File uploaded
+2026-03-27 00:46:05.845891 | CLIENT_1 | ERROR | User login successful
+2026-03-27 00:46:06.095639 | CLIENT_4 | ERROR | User login successful
+2026-03-27 00:46:06.347198 | CLIENT_2 | ERROR | Disk usage warning
+2026-03-27 00:46:06.989796 | CLIENT_0 | INFO | Connection timeout
+2026-03-27 00:46:07.271603 | CLIENT_3 | WARNING | Request processed
+2026-03-27 00:46:07.402634 | CLIENT_1 | ERROR | User login successful
+2026-03-27 00:46:07.597812 | CLIENT_4 | WARNING | Request processed
+2026-03-27 00:46:07.849523 | CLIENT_2 | INFO | API response sent
+2026-03-27 00:46:08.492466 | CLIENT_0 | WARNING | API response sent
+2026-03-27 00:46:08.774134 | CLIENT_3 | DEBUG | Connection timeout
+2026-03-27 00:46:08.914330 | CLIENT_1 | ERROR | Database connection established
+2026-03-27 00:46:09.100018 | CLIENT_4 | INFO | Disk usage warning
+2026-03-27 00:46:09.352208 | CLIENT_2 | DEBUG | Authentication failed
+2026-03-27 00:46:09.994723 | CLIENT_0 | ERROR | Disk usage warning
+2026-03-27 00:46:10.277563 | CLIENT_3 | DEBUG | Authentication failed
+2026-03-27 00:46:10.418848 | CLIENT_1 | ERROR | User login successful
+2026-03-27 00:46:10.602145 | CLIENT_4 | DEBUG | User login successful
+2026-03-27 00:46:10.857477 | CLIENT_2 | INFO | Request processed
+2026-03-27 00:46:11.497853 | CLIENT_0 | WARNING | Request processed
+2026-03-27 00:46:11.796426 | CLIENT_3 | WARNING | Database connection established
+2026-03-27 00:46:11.940003 | CLIENT_1 | WARNING | Query executed
+2026-03-27 00:46:12.116468 | CLIENT_4 | INFO | File uploaded
+2026-03-27 00:46:12.360626 | CLIENT_2 | WARNING | User login successful
+2026-03-27 00:46:13.000078 | CLIENT_0 | WARNING | Disk usage warning
+2026-03-27 00:46:13.299804 | CLIENT_3 | INFO | Cache refreshed
+2026-03-27 00:46:13.446588 | CLIENT_1 | ERROR | Database connection established
+2026-03-27 00:46:13.619565 | CLIENT_4 | ERROR | User login successful
+2026-03-27 00:46:13.864248 | CLIENT_2 | DEBUG | API response sent
+2026-03-27 00:46:14.518900 | CLIENT_0 | DEBUG | Query executed
+2026-03-27 00:46:14.803732 | CLIENT_3 | DEBUG | Database connection established
+2026-03-27 00:46:14.955123 | CLIENT_1 | DEBUG | User login successful
+2026-03-27 00:46:15.125301 | CLIENT_4 | ERROR | Request processed
+2026-03-27 00:46:15.367275 | CLIENT_2 | INFO | Connection timeout
+2026-03-27 00:46:16.023156 | CLIENT_0 | DEBUG | User login successful
+2026-03-27 00:46:16.306366 | CLIENT_3 | ERROR | Cache refreshed
+2026-03-27 00:46:16.458026 | CLIENT_1 | WARNING | Request processed
+2026-03-27 00:46:16.627845 | CLIENT_4 | INFO | API response sent
+2026-03-27 00:46:16.869648 | CLIENT_2 | INFO | File uploaded
+2026-03-27 00:46:17.526041 | CLIENT_0 | DEBUG | File uploaded
+2026-03-27 00:46:17.813267 | CLIENT_3 | WARNING | Request processed
+2026-03-27 00:46:17.961317 | CLIENT_1 | WARNING | File uploaded
+2026-03-27 00:46:18.131058 | CLIENT_4 | ERROR | Request processed
+2026-03-27 00:46:18.373011 | CLIENT_2 | DEBUG | User login successful
